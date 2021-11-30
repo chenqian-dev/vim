@@ -14,7 +14,9 @@ endfunc
 "----------------------------------------------------------------------
 call plug#begin(get(g:, 'bundle_home', '~/.vim/bundles'))
 
-source ./init/plugin/leader_f.vim
-source ./init/plugin/tabular.vim
+LoadScript init/plugin/leader_f.vim
+LoadScript init/plugin/tabular.vim
+LoadScript init/plugin/airline.vim
+LoadScript init/plugin/nerdtree.vim
 
 call plug#end()
