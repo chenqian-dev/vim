@@ -18,5 +18,6 @@ LoadScript init/plugin/leader_f.vim
 LoadScript init/plugin/tabular.vim
 LoadScript init/plugin/airline.vim
 LoadScript init/plugin/nerdtree.vim
+LoadScript init/plugin/coc.vim
 
 call plug#end()
