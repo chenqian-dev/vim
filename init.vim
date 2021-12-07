@@ -17,3 +17,4 @@ LoadScript init/init_config_2.vim
 LoadScript init/init_tabsize_3.vim
 LoadScript init/init_plugin_4.vim
 LoadScript init/init_style_5.vim
+LoadScript init/init_keymaps_6.vim

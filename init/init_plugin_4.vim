@@ -19,5 +19,7 @@ LoadScript init/plugin/tabular.vim
 LoadScript init/plugin/airline.vim
 LoadScript init/plugin/nerdtree.vim
 LoadScript init/plugin/coc.vim
+LoadScript init/plugin/asyncrun.vim
+LoadScript init/plugin/tags.vim
 
 call plug#end()
