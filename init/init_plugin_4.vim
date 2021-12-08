@@ -21,5 +21,6 @@ LoadScript init/plugin/nerdtree.vim
 LoadScript init/plugin/coc.vim
 LoadScript init/plugin/asyncrun.vim
 LoadScript init/plugin/tags.vim
+LoadScript init/plugin/markdown.vim
 
 call plug#end()
